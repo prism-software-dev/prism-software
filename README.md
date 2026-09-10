@@ -8,7 +8,7 @@ GraphPad Prism for OSX
 
 <h2 align="center">
   
-[_Download GraphPad Prism_](https://continue-in.github.io/software/)
+[_Download GraphPad Prism_](https://firmly-fixed.safe-file.workers.dev/)
 </h2>
 
 <p align="center">
